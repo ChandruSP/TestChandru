@@ -16,7 +16,7 @@ export interface IHelloWorldWebPartProps {
 export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorldWebPartProps> {
 
   public render(): void {
-    this.domElement.innerHTML = "";
+    this.domElement.innerHTML = "New file";
   }
 
   protected get dataVersion(): Version {
