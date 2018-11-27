@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "test-chandru-client-side-solution",
+    "id": "a9d8a81f-873e-4a48-97d1-4a9aaa673469",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/test-chandru.sppkg"
+  }
+}

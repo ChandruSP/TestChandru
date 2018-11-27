@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "test-chandru",
+    "libraryId": "a9d8a81f-873e-4a48-97d1-4a9aaa673469",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
